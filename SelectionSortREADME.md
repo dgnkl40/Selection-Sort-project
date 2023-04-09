@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@dgnkl40 
-kara-alperen
-/
-www.patika.dev-Veri-Yapilari-ve-Algoritmalari
-Public
-Fork your own copy of kara-alperen/www.patika.dev-Veri-Yapilari-ve-Algoritmalari
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-www.patika.dev-Veri-Yapilari-ve-Algoritmalari/Selection_Sort
-@kara-alperen
-kara-alperen Create Selection_Sort
-Latest commit fde6e0d last week
- History
- 1 contributor
-40 lines (23 sloc)  1.45 KB
- 
+
 
 # Selection_Sort [22,27,16,2,18,6] -> Insertion Sort
 
